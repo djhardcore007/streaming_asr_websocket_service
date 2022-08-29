@@ -35,3 +35,4 @@ print('you could send 5 messages!')
 for i in range(5):
     msg = str(input())
     send(msg)
+send(DISCONNECT_MESSAGE)

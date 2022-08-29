@@ -1,4 +1,6 @@
-# Python Socket Tutorial
+# Python Socket Server Example
+
+This repo provices a simple socket server example for sending: string and audio data.
 
 ## Usage
 Setup
