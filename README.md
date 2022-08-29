@@ -21,4 +21,4 @@ python client.py
 ```
 
 ## Reference
-1. [websocket tutorial](https://www.youtube.com/watch?v=-njsRb8Tn70)
+1. [websocket tutorial](https://www.youtube.com/watch?v=3QiPPX-KeSc)
