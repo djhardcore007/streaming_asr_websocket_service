@@ -1,6 +1,6 @@
-# Python Socket Server Example
+# Python ASR Socket Server
 
-A simple socket server sending texts or audio.
+A simple streaming ASR service using socket.
 
 ## Usage
 Setup
@@ -23,12 +23,3 @@ python client.py
 ## Reference
 1. [websocket tutorial](https://www.youtube.com/watch?v=3QiPPX-KeSc)
 2. [How-to-send-audio-from-PyAudio-over-socket](https://pyshine.com/How-to-send-audio-from-PyAudio-over-socket/)
-
-## TODO
-1. [DONE] get ASR inference class working
-- get audio chunk working for ASR inference
-2. add asr in server
-3. load audio in server and have server running
-4. client and server handle audio data
-5. cient sends audio to server. print transcript in server
-6. server sends chunk audio back... like a streaming fashion...
