@@ -1,6 +1,6 @@
 # Python Socket Server Example
 
-A simple socket server example for sending: string and audio data.
+A simple socket server sending texts or audio.
 
 ## Usage
 Setup
